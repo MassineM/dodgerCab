@@ -2,22 +2,24 @@
 First ever graphical game made with Python
 -------------------------------------------------------------
 
-## Install
-### Python :
+### Install
+#### Python :
   https://wiki.python.org/moin/BeginnersGuide/Download
-### Pygame :
+#### Pygame :
   https://www.pygame.org/wiki/GettingStarted
 
-# Run
-### game.py :
+### Run
+#### game.py :
   Execute to launch the game and play.
-### game.py :
+#### game.py :
   Execute to launch the game but without any graphical models
   (if the version with picture models is lagging).
+    
+### Have fun!
   
 -------------------------------------------------------------
 
-# Credits:
-##  Massine Mountasser
-##  aka. Grey Fox
-## 2012
+## Credits:
+###  Massine Mountasser
+####  _aka._ **Grey Fox**
+#### 2012
