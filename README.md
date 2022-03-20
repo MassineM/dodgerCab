@@ -3,15 +3,13 @@ First ever graphical game made with Python
 -------------------------------------------------------------
 
 ### Install
-#### Python :
-  https://wiki.python.org/moin/BeginnersGuide/Download
-#### Pygame :
-  https://www.pygame.org/wiki/GettingStarted
+####  1. Python : _https://wiki.python.org/moin/BeginnersGuide/Download_
+####  2. Pygame : _https://www.pygame.org/wiki/GettingStarted_
 
 ### Run
-#### game.py :
-  Execute to launch the game and play.
-#### game.py :
+#### 3. _game.py_ :
+   Execute to launch the game and play.
+#### 4. _game_noModels.py_ :
   Execute to launch the game but without any graphical models
   (if the version with picture models is lagging).
     
